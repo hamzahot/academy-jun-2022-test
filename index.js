@@ -1,3 +1,3 @@
 function showMessage(message){
-  alert(message
+  alert(message);
 }
